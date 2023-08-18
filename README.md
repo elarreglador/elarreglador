@@ -13,6 +13,7 @@
 
 Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
 
-[Web personal](http://82.223.50.169/wordpress/) <br>
-[linkedin](https://www.linkedin.com/in/srtecnico/) <br>
-[Correo Electrónico](mailto:elarreglador@protonmail.com)
+<div class="contenedor">
+[Web personal](http://82.223.50.169/wordpress/) | [linkedin](https://www.linkedin.com/in/srtecnico/) | [Correo Electrónico](mailto:elarreglador@protonmail.com)
+</div>
+
