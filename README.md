@@ -13,6 +13,6 @@
 
 Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
 
-[LinkedIn] [https://www.linkedin.com/in/srtecnico/](https://www.linkedin.com/in/srtecnico/) <br>
-[Twitter] [https://twitter.com/home](https://twitter.com/elarreglador1) <br>
+[linkedin.com](https://www.linkedin.com/in/srtecnico/) <br>
+[twitter](https://twitter.com/elarreglador1) <br>
 [Correo Electrónico](mailto:elarreglador@protonmail.com)
