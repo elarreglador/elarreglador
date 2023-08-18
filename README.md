@@ -1,0 +1,1 @@
+Técnico Informático certificado Apple | Padre en constante formacion | estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | Apasionado por la Creación y el Hacking | Usuario de Linux de la Vieja Escuela | Aprendiz Constante y Curioso por profesion
