@@ -22,6 +22,9 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 <a href="http://82.223.50.169/wordpress/index.php/tag/git/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Git.png" alt="GIT">
 </a>
+<a href="http://82.223.50.169/wordpress/index.php/tag/HTML/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-HTML-CSS.png" alt="HTML/CSS">
+</a>
 <a href="http://82.223.50.169/wordpress/index.php/tag/dart/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Dart.png" alt="DART">
 </a>
