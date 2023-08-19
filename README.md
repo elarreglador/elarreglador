@@ -23,6 +23,6 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Dart.png" alt="DART">
 </a>
 <a href="http://82.223.50.169/wordpress/index.php/tag/python/">
-<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Dart.png" alt="PYTHON">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Python.png" alt="PYTHON">
 </a>
 
