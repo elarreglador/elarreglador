@@ -13,25 +13,25 @@
 
 A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las mas destacadas.
 
-<a href="http://82.223.50.169/wordpress/index.php/tag/java/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/java/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="JAVA">
 </a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/git/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/git/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Git.png" alt="GIT">
 </a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/HTML/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/HTML/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-HTML-CSS.png" alt="HTML/CSS">
 </a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/dart/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/dart/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Dart.png" alt="DART">
 </a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/python/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/python/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Python.png" alt="PYTHON">
 </a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/linux/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/linux/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-GNU-Linux.png" alt="GNU/Linux">
 </a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/Apple/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/Apple/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Apple.png" alt="APPLE">
 </a>
 
@@ -39,14 +39,14 @@ A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las
 
 Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
 
-<a href="https://www.linkedin.com/in/elarreglador/">
+<a href="https://www.linkedin.com/in/elarreglador/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-LinkedIn.png" alt="Linkedin">
 </a>
 
-<a href="mailto:correo@ejemplo.com">
+<a href="mailto:elarreglador@protonmail.com">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Correo.png" alt="Correo">
 </a>
 
-<a href="http://82.223.50.169/wordpress/">
+<a href="http://82.223.50.169/wordpress/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Web.png" alt="Web">
 </a>
