@@ -50,3 +50,7 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 <a href="http://82.223.50.169/wordpress/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Web.png" alt="Web">
 </a>
+
+<a href="https://github.com/elarreglador" target="_blank">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-GitHub.png" alt="GitHub">
+</a>
