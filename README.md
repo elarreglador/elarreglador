@@ -13,7 +13,17 @@
 
 Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
 
-[Web personal](http://82.223.50.169/wordpress/) | [linkedin](https://www.linkedin.com/in/srtecnico/) | [Correo Electrónico](mailto:elarreglador@protonmail.com)
+<a href="https://www.linkedin.com/in/elarreglador/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-LinkedIn.png" alt="Linkedin">
+</a>
+
+<a href="mailto:correo@ejemplo.com">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Correo.png" alt="Correo">
+</a>
+
+<a href="http://82.223.50.169/wordpress/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Web.png" alt="Web">
+</a>
 
 ## Tecnologias
 <a href="http://82.223.50.169/wordpress/index.php/tag/java/">
