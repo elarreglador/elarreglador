@@ -19,4 +19,7 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 <a href="http://82.223.50.169/wordpress/index.php/category/java/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="JAVA">
 </a>
+<a href="http://82.223.50.169/wordpress/index.php/category/java/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="DART">
+</a>
 
