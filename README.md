@@ -15,3 +15,7 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 
 [Web personal](http://82.223.50.169/wordpress/) | [linkedin](https://www.linkedin.com/in/srtecnico/) | [Correo Electrónico](mailto:elarreglador@protonmail.com)
 
+## Tecnologias
+
+<img src="URL_DE_LA_IMAGEN" alt="Descripción de la imagen">
+
