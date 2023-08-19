@@ -17,5 +17,5 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 
 ## Tecnologias
 
-<img src="URL_DE_LA_IMAGEN" alt="Descripción de la imagen">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="JAVA">
 
