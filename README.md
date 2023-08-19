@@ -1,4 +1,4 @@
-# ¡Hola, soy David Moreno! 👋
+# 👋 ¡Hola, soy David Moreno! 
 
 ¡Bienvenido/a a mi rincón en GitHub! Permíteme presentarte un poco sobre mí:
 
