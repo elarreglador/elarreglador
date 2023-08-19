@@ -25,4 +25,8 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 <a href="http://82.223.50.169/wordpress/index.php/tag/python/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Python.png" alt="PYTHON">
 </a>
+<a href="http://82.223.50.169/wordpress/index.php/tag/linux/">
+<img src="<a href="http://82.223.50.169/wordpress/index.php/tag/python/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-GNU-Linux.png" alt="GNU/Linux">
+</a>
 
