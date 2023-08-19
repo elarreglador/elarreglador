@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy David Moreno! 
 
-¡Bienvenido/a a mi rincón en GitHub! Permíteme presentarte un poco sobre mí:
+¡Bienvenido/a a mi rincón en GitHub! Permíteme contarte algo sobre mí:
 
 - 👨‍💻 Soy un Técnico Informático certificado Apple.
 - 👨‍👩‍👧‍👦 Padre en constante formación, siempre en busca de nuevas formas de crecimiento personal y profesional.
