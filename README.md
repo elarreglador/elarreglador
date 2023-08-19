@@ -11,6 +11,8 @@
   
 ## Tecnologias
 
+A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las mas destacadas.
+
 <a href="http://82.223.50.169/wordpress/index.php/tag/java/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="JAVA">
 </a>
