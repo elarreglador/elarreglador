@@ -16,10 +16,13 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 [Web personal](http://82.223.50.169/wordpress/) | [linkedin](https://www.linkedin.com/in/srtecnico/) | [Correo Electrónico](mailto:elarreglador@protonmail.com)
 
 ## Tecnologias
-<a href="http://82.223.50.169/wordpress/index.php/category/java/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/java/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="JAVA">
 </a>
-<a href="http://82.223.50.169/wordpress/index.php/category/dart/">
+<a href="http://82.223.50.169/wordpress/index.php/tag/dart/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Dart.png" alt="DART">
+</a>
+<a href="http://82.223.50.169/wordpress/index.php/tag/python/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Dart.png" alt="PYTHON">
 </a>
 
