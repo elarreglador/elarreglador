@@ -8,24 +8,9 @@
 - 💡 Me apasiona la creación y el hacking, siempre buscando desafíos emocionantes que estimulen mi mente creativa.
 - 🐧 Usuario de Linux de la Vieja Escuela, convencido de que las raíces tecnológicas son tan importantes como las innovaciones actuales.
 - 📖 Aprendiz constante y curioso por profesión. Creo en el poder del aprendizaje continuo para seguir creciendo en todas las áreas.
-
-## Contacto
-
-Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
-
-<a href="https://www.linkedin.com/in/elarreglador/">
-<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-LinkedIn.png" alt="Linkedin">
-</a>
-
-<a href="mailto:correo@ejemplo.com">
-<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Correo.png" alt="Correo">
-</a>
-
-<a href="http://82.223.50.169/wordpress/">
-<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Web.png" alt="Web">
-</a>
-
+  
 ## Tecnologias
+
 <a href="http://82.223.50.169/wordpress/index.php/tag/java/">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="JAVA">
 </a>
@@ -48,3 +33,18 @@ Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Apple.png" alt="APPLE">
 </a>
 
+## Contacto
+
+Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
+
+<a href="https://www.linkedin.com/in/elarreglador/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-LinkedIn.png" alt="Linkedin">
+</a>
+
+<a href="mailto:correo@ejemplo.com">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Correo.png" alt="Correo">
+</a>
+
+<a href="http://82.223.50.169/wordpress/">
+<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Web.png" alt="Web">
+</a>
