@@ -35,6 +35,10 @@ A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Apple.png" alt="APPLE">
 </a>
 
+## Curriculum
+
+Puedes acceder a mi curriculum desde <a href="https://github.com/elarreglador/Curriculum" target="_blank"> aqui </a>
+
 ## Contacto
 
 Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
