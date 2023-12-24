@@ -13,27 +13,21 @@
 
 A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las mas destacadas.
 
-<a href="http://82.223.50.169/wordpress/index.php/tag/java/" target="_blank">
+<div style="display: flex;">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Java.png" alt="JAVA">
-</a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/git/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Git.png" alt="GIT">
-</a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/HTML/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-HTML-CSS.png" alt="HTML/CSS">
-</a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/dart/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Dart.png" alt="DART">
-</a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/python/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Python.png" alt="PYTHON">
-</a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/linux/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-GNU-Linux.png" alt="GNU/Linux">
-</a>
-<a href="http://82.223.50.169/wordpress/index.php/tag/Apple/" target="_blank">
 <img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Tecnologias-Apple.png" alt="APPLE">
-</a>
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Bash.png" alt="Bash">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20C.png" alt="C">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Electron.png" alt="Electron">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20GitHub.png" alt="GitHub">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20NodeJS.png" alt="NodeJS">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Visual%20Studio%20Code.png" alt="Visual Studio Code">
+</div>
 
 ## Curriculum
 
