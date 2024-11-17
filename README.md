@@ -28,6 +28,7 @@ A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20NodeJS.png" alt="NodeJS">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Visual%20Studio%20Code.png" alt="Visual Studio Code">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Flutter.png" alt="Flutter">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20JetpackCompose.png" alt="Jetpack Compose">
 </div>
 
 ## Curriculum
