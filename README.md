@@ -48,13 +48,13 @@ Puedes acceder a mi curriculum desde <a href="https://github.com/elarreglador/Cu
 Si deseas colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡estaré encantado de conectar contigo!
 
 <a href="https://www.linkedin.com/in/elarreglador/" target="_blank">
-<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-LinkedIn.png" alt="Linkedin">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Redes%20LinkedIn.png" alt="Linkedin">
 </a>
 
 <a href="mailto:elarreglador@protonmail.com">
-<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-Correo.png" alt="Correo">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Redes%20Correo.png" alt="Correo">
 </a>
 
 <a href="https://github.com/elarreglador" target="_blank">
-<img src="http://82.223.50.169/wordpress/wp-content/uploads/2023/08/Redes-GitHub.png" alt="GitHub">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Redes%20GitHub.png" alt="GitHub">
 </a>
