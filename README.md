@@ -4,7 +4,7 @@
 
 - 👨‍💻 Soy Técnico Informático certificado Apple.
 - 👨‍👩‍👧‍👦 Padre en constante formación, siempre en busca de nuevas formas de crecimiento personal y profesional.
-- 📚 Actualmente, estoy estudiando Desarrollo de Aplicaciones Multiplataforma (DAM), ampliando mis horizontes en el mundo de la programación.
+- 📚 Finalizados estudiso de Desarrollo de Aplicaciones Multiplataforma (DAM).
 - 💡 Me apasiona la creación y el hacking, siempre buscando desafíos emocionantes que estimulen mi mente creativa.
 - 🐧 Usuario de Linux de la Vieja Escuela, convencido de que las raíces tecnológicas son tan importantes como las innovaciones actuales.
 - 📖 Aprendiz constante y curioso por profesión. Creo en el poder del aprendizaje continuo para seguir creciendo en todas las áreas.
