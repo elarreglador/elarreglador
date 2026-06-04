@@ -17,25 +17,26 @@ A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20HTML-CSS.png" alt="HTML/CSS">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Dart.png" alt="DART">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Python.png" alt="PYTHON">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20C.png" alt="C">
   
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20C.png" alt="C">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20MySQL.png" alt="MySQL">
-
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Electron.png" alt="Electron">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20NodeJS.png" alt="NodeJS">
+
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Flutter.png" alt="Flutter">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20JetpackCompose.png" alt="Jetpack Compose">
-
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Android%20Studio.png" alt="Android studio">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Visual%20Studio%20Code.png" alt="Visual Studio Code">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Eclipse.png" alt="Eclipse IDE">
 
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Eclipse.png" alt="Eclipse IDE">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Git.png" alt="GIT">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20GitHub.png" alt="GitHub">
-
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Apple.png" alt="APPLE">
+
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20GNU-Linux.png" alt="GNU/Linux">
 <img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Bash.png" alt="Bash">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20K8s.png" alt="K8S">
+<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20lxc.png" alt="LXC">
 </div>
 
 ## Curriculum
