@@ -1,47 +1,17 @@
 # 👋 ¡Hola, soy David Moreno! 
+## Automatización, Infraestructura IoT e Ingeniería de Fiabilidad
 
-¡Bienvenido/a a mi rincón en GitHub! Permíteme contarte algo sobre mí:
+¡Bienvenido/a a mi GitHub! Permíteme contarte algo sobre mí:
 
-- 👨‍👩‍👧‍👦 Padre en constante formación, siempre en busca de nuevas formas de crecimiento personal y profesional.
-- 📚 Finalizados estudiso de Desarrollo de Aplicaciones Multiplataforma (DAM).
-- 💡 Me apasiona la creación y el hacking, siempre buscando desafíos emocionantes que estimulen mi mente creativa.
-- 🐧 Usuario de Linux de la Vieja Escuela, convencido de que las raíces tecnológicas son tan importantes como las innovaciones actuales.
-- 📖 Aprendiz constante y curioso por profesión. Creo en el poder del aprendizaje continuo para seguir creciendo en todas las áreas.
-  
-## Tecnologias
-
-A lo largo de este tiempo he trabajado con diferentes tecnologias, estas son las mas destacadas.
-
-<div style="display: flex;">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Java.png" alt="JAVA">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20HTML-CSS.png" alt="HTML/CSS">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Dart.png" alt="DART">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Python.png" alt="PYTHON">
-  
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20C.png" alt="C">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20MySQL.png" alt="MySQL">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Electron.png" alt="Electron">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20NodeJS.png" alt="NodeJS">
-
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Flutter.png" alt="Flutter">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20JetpackCompose.png" alt="Jetpack Compose">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Android%20Studio.png" alt="Android studio">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Visual%20Studio%20Code.png" alt="Visual Studio Code">
-
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Eclipse.png" alt="Eclipse IDE">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Git.png" alt="GIT">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20GitHub.png" alt="GitHub">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Apple.png" alt="APPLE">
-
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20GNU-Linux.png" alt="GNU/Linux">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20Bash.png" alt="Bash">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20K8s.png" alt="K8S">
-<img src="https://github.com/elarreglador/rotulos/blob/main/Tecnologias%20lxc.png" alt="LXC">
-</div>
+- ⚡ **Perfil Híbrido:** Combino una base sólida en Electricidad con la programacion.
+- 🐧 **Linux de Vieja Escuela:** Apasionado de la administración de sistemas, el control de la infraestructura y las raíces tecnológicas.
+- ⚙️ **Fiabilidad de Sistemas:** Actualmente enfocado en el despliegue de clusters de servidores en alta disponibilidad, orquestación y la estabilidad de infraestructuras críticas.
+- 💡 **Maker & Hardware Hacking:** Me apasiona dar vida a las ideas programando sistemas embebidos, automatizando entornos reales y reparando/modificando hardware.
+- 👨‍👩‍👧‍👦 **Aprendiz Constante:** Padre y tecnólogo en evolución continua, convencido de que la curiosidad y el aprendizaje diario son el motor del crecimiento.
 
 ## Curriculum
 
-Puedes acceder a mi curriculum desde <a href="https://github.com/elarreglador/Curriculum" target="_blank"> aqui </a>
+Puedes consultar mi trayectoria profesional detallada, experiencia en proyectos de infraestructura industrial/digital y formación técnica accediendo directamente a **[mi currículum](https://github.com/elarreglador/Curriculum)**.
 
 ## Contacto
 
