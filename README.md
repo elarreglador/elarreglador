@@ -2,7 +2,6 @@
 
 ¡Bienvenido/a a mi rincón en GitHub! Permíteme contarte algo sobre mí:
 
-- 👨‍💻 Soy Técnico Informático certificado Apple.
 - 👨‍👩‍👧‍👦 Padre en constante formación, siempre en busca de nuevas formas de crecimiento personal y profesional.
 - 📚 Finalizados estudiso de Desarrollo de Aplicaciones Multiplataforma (DAM).
 - 💡 Me apasiona la creación y el hacking, siempre buscando desafíos emocionantes que estimulen mi mente creativa.
